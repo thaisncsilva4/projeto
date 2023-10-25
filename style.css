@@ -1,0 +1,43 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+  background-image: url(imagens/bg-1.jpg);
+  background-size: cover;
+  background-position: right center;
+}
+ul{
+  text-align: right;
+  padding: 25px;
+}
+ul li{
+  display: inline-block;
+  border: 2px solid;
+}
+li{
+  list-style: none;
+
+}
+h1{
+  text-align: center;
+}
+main{
+  background-color: azure;
+}
+div{
+  background-color: #fff;
+  width: 750px;
+  margin: auto;
+}
+h2{
+  background-color: lightgrey;
+  padding: 10px;
+}
+footer{
+  background-color: dimgray;
+}
+p{
+  text-align: center;
+  padding: 10px;
+}
